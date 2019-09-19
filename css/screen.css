@@ -1,4 +1,25 @@
 html{
     text-align: center;
     align-content: center;
+    background-color: cornflowerblue;
+}
+form{
+    display: block;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+.submit-button{
+    height: 33px;
+    width: 133px;
+    border-radius: 10px;
+    background-color: lightcoral;
+    text-decoration-color: black;
+    display: inline-block;
+    font-size: 20px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 25px;
 }
